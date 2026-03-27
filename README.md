@@ -4,7 +4,7 @@
 
 ## SOBRE O PROJETO
 
-### ⤷ NOME DO APP E FUNÇÃO
+### ⤷ Nome do app e função
 O Fiap Kitchenet é um aplicativo mobile desenvolvido com React Native (Expo), inspirado na Kitchenet da FIAP.
 O app tem como objetivo facilitar a experiência dos alunos na hora de comprar alimentos, oferecendo:
 
@@ -19,8 +19,7 @@ Assim, o aplicativo ajuda a tirar dúvidas sobre produtos e o diminuir tempo de 
 Como aluna que utiliza frequentemente a Kitchenet, percebi dificuldades como:
 
 - Dúvidas sobre em qual andar certos alimentos estão localizados;
-- Tempo perdido em filas;
-- Falta de organização na escolha dos itens.
+- Tempo perdido em filas.
 
 Por isso, o projeto foi pensado para resolver esses problemas de forma prática e acessível.
 
@@ -67,7 +66,7 @@ npm install
 npx expo start
 ```
 
-Depois disso, escaneie o QR Code com o Expo Go ou execute no emulador
+Depois disso, escaneie o QR Code com o Expo Go ou execute no emulador (opção "a").
 
 ---
 
