@@ -67,11 +67,7 @@ npm install
 npx expo start
 ```
 
-Depois disso:
-
-* Escaneie o QR Code com o Expo Go
-  ou
-* Execute no emulador
+Depois disso, escaneie o QR Code com o Expo Go ou execute no emulador
 
 ---
 
