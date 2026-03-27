@@ -40,7 +40,7 @@ Laís Krajner Lacerda, RM563182
 
 ---
 
-## 🚀 COMO RODAR O PROJETO
+## COMO RODAR O PROJETO
 
 ### ⤷ Pré-requisitos:
 Você precisa ter instalado:
@@ -93,5 +93,4 @@ Foi utilizada navegação entre telas para melhorar a experiência do usuário, 
 
 ## PRÓXIMOS PASSOS
 - Implementar autenticação de usuário/Login
-- Integração com API real
 - Melhorias na interface (UI/UX)
