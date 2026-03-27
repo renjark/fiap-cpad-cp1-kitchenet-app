@@ -35,11 +35,8 @@ Por isso, o projeto foi pensado para resolver esses problemas de forma prática 
 
 ## INTEGRANTES
 
-### ⤷ Nome:
-Laís Krajner Lacerda
-
-### ⤷ RM:
-RM563182
+### ⤷ Nome e RM:
+Laís Krajner Lacerda, RM563182
 
 ---
 
