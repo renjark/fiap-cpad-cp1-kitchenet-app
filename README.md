@@ -52,6 +52,7 @@ Você precisa ter instalado:
 
 ### ⤷ Passo a passo:
 
+Abra o Git Bash e siga os passos:
 ```bash
 # Clone o repositório
 git clone https://github.com/renjark/fiap-cpad-cp1-kitchenet-app.git
@@ -59,6 +60,11 @@ git clone https://github.com/renjark/fiap-cpad-cp1-kitchenet-app.git
 # Acesse a pasta
 cd fiap-cpad-cp1-kitchenet-app
 
+# Abre o VS Code
+code .
+```
+Em seguida, com o projeto aberto, siga os passos:
+```bash
 # Instale as dependências
 npm install
 
@@ -85,11 +91,7 @@ O projeto foi dividido em componentes e telas, separando responsabilidades para 
 
 ---
 
-### ⤷ Navegação
-Foi utilizada navegação entre telas para melhorar a experiência do usuário, permitindo fluxo simples e intuitivo dentro do app.
-
----
-
 ## PRÓXIMOS PASSOS
+
 - Implementar autenticação de usuário/Login
 - Melhorias na interface (UI/UX)
