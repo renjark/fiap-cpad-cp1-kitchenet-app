@@ -72,7 +72,7 @@ Depois disso, escaneie o QR Code com o Expo Go ou execute no emulador (opção "
 
 ##  DEMONSTRAÇÃO
 
-<img src="https://github.com/user-attachments/assets/8784ebe0-33c7-445c-ae30-de5ac9da36e8" width="320" height="720" align="left"/>
+<img src="https://github.com/user-attachments/assets/8784ebe0-33c7-445c-ae30-de5ac9da36e8" width="320" height="800" align="left"/>
 
 No vídeo apresentado, utilizamos o simulador do Android Studio, especificamente o dispositivo Pixel 3. Ao abrir o aplicativo, a primeira função visível é a de pesquisa, onde é possível digitar o nome do alimento desejado e localizá-lo. Na parte superior da tela, existe a opção de filtrar os alimentos por andar, considerando que na FIAP paulista, os andares disponíveis são o 5° e o 7°, que contam com a Kitchenet. Por último, ao selecionar um alimento, o usuário poderá visualizar uma breve descrição contendo o nome, o preço e informações adicionais sobre o item.
 
