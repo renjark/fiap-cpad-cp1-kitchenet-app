@@ -30,7 +30,7 @@ Por isso, o projeto foi pensado para resolver esses problemas de forma prática 
 - Visualização dos itens;
 -  Identificação do andar dos produtos;
 - Navegação entre telas.
--  
+  
 ---
 
 ## INTEGRANTES
